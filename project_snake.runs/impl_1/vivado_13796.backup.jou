@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Sat Feb 27 21:34:57 2021
+# Process ID: 13796
+# Current directory: D:/temp/project_snake/project_snake.runs/impl_1
+# Command line: vivado.exe -log Snake_top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Snake_top.tcl -notrace
+# Log file: D:/temp/project_snake/project_snake.runs/impl_1/Snake_top.vdi
+# Journal file: D:/temp/project_snake/project_snake.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source Snake_top.tcl -notrace

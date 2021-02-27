@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Sat Feb 27 23:01:37 2021
+# Process ID: 21592
+# Current directory: D:/temp/project_snake/project_snake.runs/synth_1
+# Command line: vivado.exe -log Snake_top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Snake_top.tcl
+# Log file: D:/temp/project_snake/project_snake.runs/synth_1/Snake_top.vds
+# Journal file: D:/temp/project_snake/project_snake.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Snake_top.tcl -notrace

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1614438169">
+  <File Type="BITSTR-BMM" Name="Snake_top_bd.bmm"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="Snake_top_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="Snake_top_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR" Name="Snake_top_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="Snake_top.tcl"/>
+  <File Type="OPT-TIMING" Name="Snake_top_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="Snake_top_opt.dcp"/>
+  <File Type="ROUTE-PWR-SUM" Name="Snake_top_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="Snake_top_reports.tcl"/>
+  <File Type="OPT-DRC" Name="Snake_top_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="Snake_top.hwdef"/>
+  <File Type="PWROPT-DCP" Name="Snake_top_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="Snake_top_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="Snake_top_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="Snake_top_placed.dcp"/>
+  <File Type="PLACE-IO" Name="Snake_top_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="Snake_top_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="Snake_top_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="Snake_top_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="Snake_top_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="Snake_top_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="Snake_top_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-TIMING" Name="Snake_top_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="Snake_top_postplace_pwropt.dcp"/>
+  <File Type="BG-BIN" Name="Snake_top.bin"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="Snake_top_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="Snake_top_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="Snake_top_drc_physopted.rpt"/>
+  <File Type="BITSTR-MSK" Name="Snake_top.msk"/>
+  <File Type="PHYSOPT-TIMING" Name="Snake_top_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="Snake_top_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="Snake_top_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="Snake_top_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="Snake_top_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="Snake_top_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="Snake_top_drc_routed.rpx"/>
+  <File Type="BITSTR-MMI" Name="Snake_top.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="Snake_top_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="Snake_top_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="Snake_top_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="Snake_top_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="Snake_top_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="Snake_top_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="Snake_top_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="Snake_top_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="Snake_top_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="Snake_top_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="Snake_top_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="Snake_top_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="Snake_top_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="Snake_top_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="Snake_top_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="Snake_top_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="Snake_top_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="Snake_top_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="Snake_top_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="Snake_top_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="Snake_top_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="Snake_top.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="Snake_top_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-RBT" Name="Snake_top.rbt"/>
+  <File Type="BITSTR-NKY" Name="Snake_top.nky"/>
+  <File Type="PDI-FILE" Name="Snake_top.pdi"/>
+  <File Type="RCFI_FILE" Name="Snake_top.rcfi"/>
+  <File Type="CFI_FILE" Name="Snake_top.cfi"/>
+  <File Type="RNPI_FILE" Name="Snake_top.rnpi"/>
+  <File Type="NPI_FILE" Name="Snake_top.npi"/>
+  <File Type="RBD_FILE" Name="Snake_top.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="Snake_top.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="Snake_top.sysdef"/>
+  <File Type="BG-BGN" Name="Snake_top.bgn"/>
+  <File Type="BG-DRC" Name="Snake_top.drc"/>
+  <File Type="RDI-RDI" Name="Snake_top.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/Fruit_generate.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Game_init.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Key_relive.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Seven_segments.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Snake_move.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/VGA_show.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/VGA_top.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/clk_unit.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Snake_top.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="Snake_top"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/project_snake.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2020">
+      <Desc>Default settings for Implementation.</Desc>
+    </StratHandle>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
